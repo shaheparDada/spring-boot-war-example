@@ -6,7 +6,7 @@
 # Include files. 
 . ./scripts/utils.sh
 . ./scripts/variables.sh
-
+ 
 
 
 function clean_up(){
